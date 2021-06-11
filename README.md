@@ -1,14 +1,10 @@
-# Projeto-Ciencia-de-Dados
-Um repositório para inserirmos nosso projeto do Curso de  Ciência da Comptação matéria Ciência de Dados Quinta-feita á noite.
+# Projeto Florestas Plantadas
+Um repositório para inserirmos nosso Projeto Uninove Ciência da Computação 5º Semestre Profº José Storopoli.
 
-Boa Noite 
+O Projeto foi feito utilizando a linguagem Python na plaforma google Colab com base nos dados de Florestas Plantadas. 
+Utilizados através da leitura do dataset, o programa lê os dados e faz o tratamento através das bibliotecas: Pandas, Numpy, matplotlib e scikit-learn. 
 
-O Projeto foi feito com base nos dados de reflorestamento utilizados através do dataset disponibilidado do site do governo federal. 
-Utilizamos as bibliotecas Numpy, Scick Learn e Pandas. 
-
-Espero que vocês gostem e obrigado pela atenção. 
-
-Em agradecimento segue os integrantes do Projeto 
+Desenvolvedores: 
 
 José Orlando De Lima Jr 
 Ra: 419102375
@@ -19,5 +15,4 @@ Ra: 419101230
 Clayton de Oliveira Roberto
 Ra: 419114274
 
-
-Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados.
+Qualquer problema ou tipo de erro comunicar o e-mail: 11gabriel.meneses@uni9.edu.br
