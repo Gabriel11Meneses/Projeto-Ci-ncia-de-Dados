@@ -18,3 +18,6 @@ Ra: 419101230
 
 Clayton de Oliveira Roberto
 Ra: 419114274
+
+
+Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados.
