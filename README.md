@@ -12,7 +12,9 @@ Em agradecimento segue os integrantes do Projeto
 
 José Orlando De Lima Jr 
 Ra: 419102375
+
 Gabriel Meneses Dos Santos
 Ra: 419101230
+
 Clayton de Oliveira Roberto
 Ra: 419114274
