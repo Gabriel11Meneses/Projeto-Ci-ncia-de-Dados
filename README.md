@@ -1,4 +1,4 @@
-# Projeto-Ci-ncia-de-Dados
+# Projeto-Ciencia-de-Dados
 Um repositório para inserirmos nosso projeto do Curso de  Ciência da Comptação matéria Ciência de Dados Quinta-feita á noite.
 
 Boa Noite 
