@@ -1,7 +1,7 @@
 # Projeto Florestas Plantadas
 Um repositório para inserirmos nosso Projeto Uninove Ciência da Computação 5º Semestre Profº José Storopoli.
 
-O Projeto foi feito utilizando a linguagem Python na plaforma google Colab com base nos dados de Florestas Plantadas. 
+O Projeto foi feito utilizando a linguagem Python na plaforma google Colab com base nos dados de Florestas Plantadas (fonte https://dados.gov.br/). 
 Utilizados através da leitura do dataset, o programa lê os dados e faz o tratamento através das bibliotecas: Pandas, Numpy, matplotlib e scikit-learn. 
 
 Desenvolvedores: 
